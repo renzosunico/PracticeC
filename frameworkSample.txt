@@ -4,6 +4,11 @@ function A {
 	print "Hello World";
 }
 
+
 function Hi {
 	print "Hi!";
+
+function is_password_match(pi, p2) {
+	return p1 == p2;
+
 }
