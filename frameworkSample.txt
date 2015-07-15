@@ -4,8 +4,7 @@ function A {
 	print "Hello World";
 }
 
-
-function Hi {
+function print_text {
 	print "Hi!";
 
 function is_password_match(pi, p2) {
