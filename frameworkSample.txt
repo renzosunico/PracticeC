@@ -3,3 +3,6 @@ FRAMEWORK SAMPLE
 function A {
 	print "Hello World";
 }
+function is_password_match(pi, p2) {
+	return p1 == p2;
+}
