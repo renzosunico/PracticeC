@@ -3,3 +3,7 @@ FRAMEWORK SAMPLE
 function A {
 	print "Hello World";
 }
+
+function Hi {
+	print "Hi!";
+}
